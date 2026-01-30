@@ -1,8 +1,3 @@
-Here’s a **UK-friendly, more professional GitHub intro** — cleaner, slightly less “hype emoji startup style”, more aligned with UK student / early career tech tone, but still friendly for GitHub.
-
-You can paste this directly into your README.
-
----
 
 ## 👋 Hi, I’m Akshat Karwal
 
