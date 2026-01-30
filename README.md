@@ -1,46 +1,71 @@
-👋 Hi, I’m Akshat Karwal
+Here’s a **UK-friendly, more professional GitHub intro** — cleaner, slightly less “hype emoji startup style”, more aligned with UK student / early career tech tone, but still friendly for GitHub.
 
-🚀 About Me
-I am a BTech graduate in Computer Science with a specialization in Artificial Intelligence and Machine Learning. Currently, I am expanding my expertise in Data Science, with a keen interest in roles such as Data Analyst, Data Engineer, and Data Scientist.
+You can paste this directly into your README.
 
-🔥 Skills & Technologies
+---
 
-Programming & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+## 👋 Hi, I’m Akshat Karwal
 
-Big Data & Cloud: PySpark, Databricks, Microsoft Azure
+### 🇬🇧 About Me
 
-Business Intelligence: Power BI
+I am an MSc Applied AI and Business Analytics student based in the United Kingdom, with a background in Computer Science specialising in Artificial Intelligence and Machine Learning. I am particularly interested in data-driven roles including Data Analytics, Data Engineering, and applied AI solutions that solve real-world business problems.
 
-Databases: SQL
+I enjoy working with data end-to-end — from data cleaning and analysis to visualisation and insight generation.
 
-🌱 Currently Learning
+---
 
-Advanced Data Engineering Techniques
+### 🛠 Skills & Technologies
 
-Machine Learning & AI Model Deployment
+**Programming & Data Analysis**
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
-Cloud-based Data Solutions
+**Databases**
+SQL (Data Querying, Data Cleaning, Data Extraction)
 
-💡 Projects
+**Business Intelligence & Visualisation**
+Power BI, Data Dashboards, Reporting
 
-I have worked on multiple projects utilizing my technical skills in data visualization, data manipulation, and analytics. You can check them out in my repositories!
+**Big Data & Cloud**
+PySpark, Databricks, Microsoft Azure
 
-💼 Looking to Collaborate On
+---
 
-Data Analytics & Visualization Projects
+### 📚 Currently Developing Skills In
 
-Machine Learning & AI Applications
+* Advanced Data Engineering Concepts
+* Machine Learning Model Deployment
+* Cloud-Based Data Architecture
+* Production-Level Data Pipelines
 
-Open-source Data Science Initiatives
+---
 
-📫 How to Reach Me
+### 📊 Projects
 
-📧 Email: akshatkarwal1@gmail.com
+I have developed multiple data-focused projects involving data visualisation, analytics, and machine learning.
+Please feel free to explore my repositories to see practical implementations of my skills.
 
-💼 LinkedIn: https://www.linkedin.com/in/akshat-karwal-247046210/
+---
 
-⚡ Fun Fact
+### 🤝 Open to Collaborate On
 
-I love solving real-world problems using data and exploring innovative AI solutions!
+* Data Analytics & Visualisation Projects
+* Machine Learning & AI Applications
+* Open-Source Data Projects
+* Real-World Business Data Use Cases
 
+---
+
+### 📫 Contact Me
+
+📧 Email: [akshatkarwal1@gmail.com](mailto:akshatkarwal1@gmail.com)
+💼 LinkedIn:
+[https://www.linkedin.com/in/akshat-karwal-247046210/](https://www.linkedin.com/in/akshat-karwal-247046210/)
+
+---
+
+### ⚡ Personal Note
+
+I am passionate about using data and AI to solve real-world problems and continuously improving my technical and analytical skillset.
+
+---
 
